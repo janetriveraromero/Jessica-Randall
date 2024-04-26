@@ -16,7 +16,7 @@ Las herramienta utilizadas para su desarrollo  fueron:
 _Este proyecto es la solucion a uno de los desafios de la plataforma frontend Mentor_
 
 
-**ALUMNA:**Janet Susan Rivera Romero
+**ALUMNA:** Janet Susan Rivera Romero
 
 
 | Especialidad  | COMENTARIO |
